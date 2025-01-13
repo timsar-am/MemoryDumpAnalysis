@@ -74,3 +74,5 @@ Question: Determining the user account offers valuable information about its pri
 For this I will need to use getsids. SID (Security ID) is assigned to each account.  The output below shows user Lee has been running malicious processes
 
 ![image](https://github.com/user-attachments/assets/4f9ae68b-8318-430b-a2be-98ce4f59898c)
+
+End of Lab
